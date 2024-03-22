@@ -6,6 +6,17 @@
 
 **Author:** Angulia Yang, Kai Jin, Zeqiang Wei, Sha Guo, Mingzhi Gao, Xiuzhuang Zhou
 
+If you find this work helpful, please consider citing the following papers:
+
+```bibtex
+@InProceedings{DistgEPIT,
+    author    = {Jin, Kai and Yang, Angulia and Wei, Zeqiang and Guo, Sha and Gao, Mingzhi and Zhou, Xiuzhuang},
+    title     = {DistgEPIT: Enhanced Disparity Learning for Light Field Image Super-Resolution},
+    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+    year      = {2023},
+}
+```
+
 ## PSW++ Explaination
 
 ## News
@@ -195,15 +206,6 @@ python lfsr.py \
 ## Citation
 
 If you find this work helpful, please consider citing the following papers:
-
-```bibtex
-@InProceedings{DistgEPIT,
-    author    = {Jin, Kai and Yang, Angulia and Wei, Zeqiang and Guo, Sha and Gao, Mingzhi and Zhou, Xiuzhuang},
-    title     = {DistgEPIT: Enhanced Disparity Learning for Light Field Image Super-Resolution},
-    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-    year      = {2023},
-}
-```
 
 ```bibtex
 @InProceedings{BasicLFSR,
